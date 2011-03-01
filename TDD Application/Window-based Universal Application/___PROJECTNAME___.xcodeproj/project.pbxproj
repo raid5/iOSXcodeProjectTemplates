@@ -97,71 +97,11 @@
 		668A7CD3131865EA001521F7 /* my_first.feature in Resources */ = {isa = PBXBuildFile; fileRef = 668A7C91131865EA001521F7 /* my_first.feature */; };
 		668A7CD4131865EA001521F7 /* launch_steps.rb in Resources */ = {isa = PBXBuildFile; fileRef = 668A7C93131865EA001521F7 /* launch_steps.rb */; };
 		668A7CD5131865EA001521F7 /* env.rb in Resources */ = {isa = PBXBuildFile; fileRef = 668A7C95131865EA001521F7 /* env.rb */; };
-		668A7CE6131866C8001521F7 /* frank_static_resources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 668A7C0E131865EA001521F7 /* frank_static_resources.bundle */; };
-		668A7CE7131866C8001521F7 /* UISpec.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 668A7C5F131865EA001521F7 /* UISpec.bundle */; };
-		668A7CE8131866C8001521F7 /* update_from_svn.rb in Resources */ = {isa = PBXBuildFile; fileRef = 668A7C62131865EA001521F7 /* update_from_svn.rb */; };
 		668A7CEA131866C8001521F7 /* my_first.feature in Resources */ = {isa = PBXBuildFile; fileRef = 668A7C91131865EA001521F7 /* my_first.feature */; };
 		668A7CEB131866C8001521F7 /* launch_steps.rb in Resources */ = {isa = PBXBuildFile; fileRef = 668A7C93131865EA001521F7 /* launch_steps.rb */; };
 		668A7CEC131866C8001521F7 /* env.rb in Resources */ = {isa = PBXBuildFile; fileRef = 668A7C95131865EA001521F7 /* env.rb */; };
 		668A7CEE131866C8001521F7 /* MyModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7BE1131864CD001521F7 /* MyModel.m */; };
 		668A7CF0131866C8001521F7 /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7BE8131864CD001521F7 /* MyView.m */; };
-		668A7CF2131866C8001521F7 /* AsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C12131865EA001521F7 /* AsyncSocket.m */; };
-		668A7CF3131866C8001521F7 /* DDData.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C14131865EA001521F7 /* DDData.m */; };
-		668A7CF4131866C8001521F7 /* DDNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C16131865EA001521F7 /* DDNumber.m */; };
-		668A7CF5131866C8001521F7 /* DDRange.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C18131865EA001521F7 /* DDRange.m */; };
-		668A7CF6131866C8001521F7 /* HTTPAuthenticationRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C1A131865EA001521F7 /* HTTPAuthenticationRequest.m */; };
-		668A7CF7131866C8001521F7 /* HTTPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C1C131865EA001521F7 /* HTTPConnection.m */; };
-		668A7CF8131866C8001521F7 /* HTTPResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C1E131865EA001521F7 /* HTTPResponse.m */; };
-		668A7CF9131866C8001521F7 /* HTTPServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C20131865EA001521F7 /* HTTPServer.m */; };
-		668A7CFA131866C8001521F7 /* MyHTTPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C22131865EA001521F7 /* MyHTTPConnection.m */; };
-		668A7CFB131866C8001521F7 /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C26131865EA001521F7 /* NSObject+SBJSON.m */; };
-		668A7CFC131866C8001521F7 /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C28131865EA001521F7 /* NSString+SBJSON.m */; };
-		668A7CFD131866C8001521F7 /* SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C2A131865EA001521F7 /* SBJSON.m */; };
-		668A7CFE131866C8001521F7 /* SBJsonBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C2C131865EA001521F7 /* SBJsonBase.m */; };
-		668A7CFF131866C8001521F7 /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C2E131865EA001521F7 /* SBJsonParser.m */; };
-		668A7D00131866C8001521F7 /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C30131865EA001521F7 /* SBJsonWriter.m */; };
-		668A7D01131866C8001521F7 /* UIQuerySearchBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C34131865EA001521F7 /* UIQuerySearchBar.m */; };
-		668A7D02131866C8001521F7 /* UIQuerySegmentedControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C36131865EA001521F7 /* UIQuerySegmentedControl.m */; };
-		668A7D03131866C8001521F7 /* UIQueryTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C38131865EA001521F7 /* UIQueryTabBar.m */; };
-		668A7D04131866C8001521F7 /* UIQueryTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C3A131865EA001521F7 /* UIQueryTableView.m */; };
-		668A7D05131866C8001521F7 /* UIQueryTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C3C131865EA001521F7 /* UIQueryTableViewCell.m */; };
-		668A7D06131866C8001521F7 /* UIQueryWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C3E131865EA001521F7 /* UIQueryWebView.m */; };
-		668A7D07131866C8001521F7 /* Recordable.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C41131865EA001521F7 /* Recordable.m */; };
-		668A7D08131866C8001521F7 /* UIChildren.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C43131865EA001521F7 /* UIChildren.m */; };
-		668A7D09131866C8001521F7 /* UIConsoleLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C45131865EA001521F7 /* UIConsoleLog.m */; };
-		668A7D0A131866C8001521F7 /* UIDescendants.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C47131865EA001521F7 /* UIDescendants.m */; };
-		668A7D0B131866C8001521F7 /* UIExpectation.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C49131865EA001521F7 /* UIExpectation.m */; };
-		668A7D0C131866C8001521F7 /* UIFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C4B131865EA001521F7 /* UIFilter.m */; };
-		668A7D0D131866C8001521F7 /* UIMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C4E131865EA001521F7 /* UIMatcher.m */; };
-		668A7D0E131866C8001521F7 /* UIParents.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C50131865EA001521F7 /* UIParents.m */; };
-		668A7D0F131866C8001521F7 /* UIQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C52131865EA001521F7 /* UIQuery.m */; };
-		668A7D10131866C8001521F7 /* UIQueryAll.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C54131865EA001521F7 /* UIQueryAll.m */; };
-		668A7D11131866C8001521F7 /* UIQueryExpectation.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C56131865EA001521F7 /* UIQueryExpectation.m */; };
-		668A7D12131866C8001521F7 /* UIRedoer.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C58131865EA001521F7 /* UIRedoer.m */; };
-		668A7D13131866C8001521F7 /* UISwizzle.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C5A131865EA001521F7 /* UISwizzle.m */; };
-		668A7D14131866C8001521F7 /* UITraversal.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C5C131865EA001521F7 /* UITraversal.m */; };
-		668A7D15131866C8001521F7 /* ViewFilterSwizzler.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C5E131865EA001521F7 /* ViewFilterSwizzler.m */; };
-		668A7D16131866C8001521F7 /* UISpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C61131865EA001521F7 /* UISpec.m */; };
-		668A7D17131866C8001521F7 /* CallCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C65131865EA001521F7 /* CallCache.m */; };
-		668A7D18131866C8001521F7 /* NSNumberCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C67131865EA001521F7 /* NSNumberCreator.m */; };
-		668A7D19131866C8001521F7 /* ReturnCacher.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C69131865EA001521F7 /* ReturnCacher.m */; };
-		668A7D1A131866C8001521F7 /* UIBug.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C6B131865EA001521F7 /* UIBug.m */; };
-		668A7D1B131866C8001521F7 /* UIConsole.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C6D131865EA001521F7 /* UIConsole.m */; };
-		668A7D1C131866C8001521F7 /* UIInspector.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C6F131865EA001521F7 /* UIInspector.m */; };
-		668A7D1D131866C8001521F7 /* UIProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C71131865EA001521F7 /* UIProxy.m */; };
-		668A7D1E131866C8001521F7 /* WaitUntilIdle.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C73131865EA001521F7 /* WaitUntilIdle.m */; };
-		668A7D1F131866C8001521F7 /* AppCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C76131865EA001521F7 /* AppCommand.m */; };
-		668A7D20131866C8001521F7 /* DumpCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C78131865EA001521F7 /* DumpCommand.m */; };
-		668A7D21131866C8001521F7 /* FrankCommandRoute.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C7A131865EA001521F7 /* FrankCommandRoute.m */; };
-		668A7D22131866C8001521F7 /* FrankServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C7C131865EA001521F7 /* FrankServer.m */; };
-		668A7D23131866C8001521F7 /* InspectCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C7E131865EA001521F7 /* InspectCommand.m */; };
-		668A7D24131866C8001521F7 /* MapOperationCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C80131865EA001521F7 /* MapOperationCommand.m */; };
-		668A7D25131866C8001521F7 /* Operation.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C82131865EA001521F7 /* Operation.m */; };
-		668A7D26131866C8001521F7 /* OrientationCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C84131865EA001521F7 /* OrientationCommand.m */; };
-		668A7D27131866C8001521F7 /* RequestRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C86131865EA001521F7 /* RequestRouter.m */; };
-		668A7D28131866C8001521F7 /* RoutingHTTPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C88131865EA001521F7 /* RoutingHTTPConnection.m */; };
-		668A7D29131866C8001521F7 /* StaticResourcesRoute.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C8A131865EA001521F7 /* StaticResourcesRoute.m */; };
-		668A7D2A131866C8001521F7 /* UISpecCommandReceiver.m in Sources */ = {isa = PBXBuildFile; fileRef = 668A7C8C131865EA001521F7 /* UISpecCommandReceiver.m */; };
 		668A7D2C131866C8001521F7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		668A7D2D131866C8001521F7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		668A7D2E131866C8001521F7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
@@ -849,9 +789,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				668A7CE6131866C8001521F7 /* frank_static_resources.bundle in Resources */,
-				668A7CE7131866C8001521F7 /* UISpec.bundle in Resources */,
-				668A7CE8131866C8001521F7 /* update_from_svn.rb in Resources */,
 				668A7CEA131866C8001521F7 /* my_first.feature in Resources */,
 				668A7CEB131866C8001521F7 /* launch_steps.rb in Resources */,
 				668A7CEC131866C8001521F7 /* env.rb in Resources */,
@@ -950,63 +887,6 @@
 			files = (
 				668A7CEE131866C8001521F7 /* MyModel.m in Sources */,
 				668A7CF0131866C8001521F7 /* MyView.m in Sources */,
-				668A7CF2131866C8001521F7 /* AsyncSocket.m in Sources */,
-				668A7CF3131866C8001521F7 /* DDData.m in Sources */,
-				668A7CF4131866C8001521F7 /* DDNumber.m in Sources */,
-				668A7CF5131866C8001521F7 /* DDRange.m in Sources */,
-				668A7CF6131866C8001521F7 /* HTTPAuthenticationRequest.m in Sources */,
-				668A7CF7131866C8001521F7 /* HTTPConnection.m in Sources */,
-				668A7CF8131866C8001521F7 /* HTTPResponse.m in Sources */,
-				668A7CF9131866C8001521F7 /* HTTPServer.m in Sources */,
-				668A7CFA131866C8001521F7 /* MyHTTPConnection.m in Sources */,
-				668A7CFB131866C8001521F7 /* NSObject+SBJSON.m in Sources */,
-				668A7CFC131866C8001521F7 /* NSString+SBJSON.m in Sources */,
-				668A7CFD131866C8001521F7 /* SBJSON.m in Sources */,
-				668A7CFE131866C8001521F7 /* SBJsonBase.m in Sources */,
-				668A7CFF131866C8001521F7 /* SBJsonParser.m in Sources */,
-				668A7D00131866C8001521F7 /* SBJsonWriter.m in Sources */,
-				668A7D01131866C8001521F7 /* UIQuerySearchBar.m in Sources */,
-				668A7D02131866C8001521F7 /* UIQuerySegmentedControl.m in Sources */,
-				668A7D03131866C8001521F7 /* UIQueryTabBar.m in Sources */,
-				668A7D04131866C8001521F7 /* UIQueryTableView.m in Sources */,
-				668A7D05131866C8001521F7 /* UIQueryTableViewCell.m in Sources */,
-				668A7D06131866C8001521F7 /* UIQueryWebView.m in Sources */,
-				668A7D07131866C8001521F7 /* Recordable.m in Sources */,
-				668A7D08131866C8001521F7 /* UIChildren.m in Sources */,
-				668A7D09131866C8001521F7 /* UIConsoleLog.m in Sources */,
-				668A7D0A131866C8001521F7 /* UIDescendants.m in Sources */,
-				668A7D0B131866C8001521F7 /* UIExpectation.m in Sources */,
-				668A7D0C131866C8001521F7 /* UIFilter.m in Sources */,
-				668A7D0D131866C8001521F7 /* UIMatcher.m in Sources */,
-				668A7D0E131866C8001521F7 /* UIParents.m in Sources */,
-				668A7D0F131866C8001521F7 /* UIQuery.m in Sources */,
-				668A7D10131866C8001521F7 /* UIQueryAll.m in Sources */,
-				668A7D11131866C8001521F7 /* UIQueryExpectation.m in Sources */,
-				668A7D12131866C8001521F7 /* UIRedoer.m in Sources */,
-				668A7D13131866C8001521F7 /* UISwizzle.m in Sources */,
-				668A7D14131866C8001521F7 /* UITraversal.m in Sources */,
-				668A7D15131866C8001521F7 /* ViewFilterSwizzler.m in Sources */,
-				668A7D16131866C8001521F7 /* UISpec.m in Sources */,
-				668A7D17131866C8001521F7 /* CallCache.m in Sources */,
-				668A7D18131866C8001521F7 /* NSNumberCreator.m in Sources */,
-				668A7D19131866C8001521F7 /* ReturnCacher.m in Sources */,
-				668A7D1A131866C8001521F7 /* UIBug.m in Sources */,
-				668A7D1B131866C8001521F7 /* UIConsole.m in Sources */,
-				668A7D1C131866C8001521F7 /* UIInspector.m in Sources */,
-				668A7D1D131866C8001521F7 /* UIProxy.m in Sources */,
-				668A7D1E131866C8001521F7 /* WaitUntilIdle.m in Sources */,
-				668A7D1F131866C8001521F7 /* AppCommand.m in Sources */,
-				668A7D20131866C8001521F7 /* DumpCommand.m in Sources */,
-				668A7D21131866C8001521F7 /* FrankCommandRoute.m in Sources */,
-				668A7D22131866C8001521F7 /* FrankServer.m in Sources */,
-				668A7D23131866C8001521F7 /* InspectCommand.m in Sources */,
-				668A7D24131866C8001521F7 /* MapOperationCommand.m in Sources */,
-				668A7D25131866C8001521F7 /* Operation.m in Sources */,
-				668A7D26131866C8001521F7 /* OrientationCommand.m in Sources */,
-				668A7D27131866C8001521F7 /* RequestRouter.m in Sources */,
-				668A7D28131866C8001521F7 /* RoutingHTTPConnection.m in Sources */,
-				668A7D29131866C8001521F7 /* StaticResourcesRoute.m in Sources */,
-				668A7D2A131866C8001521F7 /* UISpecCommandReceiver.m in Sources */,
 				668A7D3B13186739001521F7 /* ExampleTest.m in Sources */,
 				668A7D3C13186739001521F7 /* GHUnitIOSTestMain.m in Sources */,
 				666FA498131C38DD00023C79 /* ___PROJECTNAME___AppDelegate_iPad.m in Sources */,

@@ -80,8 +80,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 320618252;
-			PBXWorkspaceStateSaveDate = 320618252;
+			PBXPerProjectTemplateStateSaveDate = 320644826;
+			PBXWorkspaceStateSaveDate = 320644826;
 		};
 		perUserProjectItems = {
 			662341401318B446005D8FF5 /* PBXTextBookmark */ = 662341401318B446005D8FF5 /* PBXTextBookmark */;
@@ -98,8 +98,8 @@
 			666FA4D8131C3CF900023C79 /* PBXTextBookmark */ = 666FA4D8131C3CF900023C79 /* PBXTextBookmark */;
 			667B4E84131C3F2E0036DDCA /* PBXTextBookmark */ = 667B4E84131C3F2E0036DDCA /* PBXTextBookmark */;
 			667B4E85131C3F2E0036DDCA /* PlistBookmark */ = 667B4E85131C3F2E0036DDCA /* PlistBookmark */;
-			667B4E86131C3F2E0036DDCA /* PlistBookmark */ = 667B4E86131C3F2E0036DDCA /* PlistBookmark */;
 			667B4E87131C3F2E0036DDCA /* PlistBookmark */ = 667B4E87131C3F2E0036DDCA /* PlistBookmark */;
+			668D20F2131CA729003692B6 /* PlistBookmark */ = 668D20F2131CA729003692B6 /* PlistBookmark */;
 			6699FBB21318BB2800957038 /* PBXTextBookmark */ = 6699FBB21318BB2800957038 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 668A7BD81318634F001521F7 /* Source Control */;
@@ -296,18 +296,7 @@
 		);
 		name = "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/TDD Application/Window-based Universal Application/App/___PROJECTNAME___-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	667B4E86131C3F2E0036DDCA /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 668A7DF013186FC4001521F7 /* ___PROJECTNAME___-Frankified-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/TDD Application/Window-based Universal Application/Tests/Acceptance/___PROJECTNAME___-Frankified-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	667B4E87131C3F2E0036DDCA /* PlistBookmark */ = {
 		isa = PlistBookmark;
@@ -319,7 +308,7 @@
 		);
 		name = "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/TDD Application/Window-based Universal Application/Tests/Acceptance/___PROJECTNAME___-Frankified-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	668A7BD413186330001521F7 /* ___PROJECTNAME___ */ = {
 		isa = PBXExecutable;
@@ -478,6 +467,18 @@
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 1583}";
 		};
+	};
+	668D20F2131CA729003692B6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 668A7DF013186FC4001521F7 /* ___PROJECTNAME___-Frankified-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"NSMainNibFile~ipad",
+		);
+		name = "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/TDD Application/Window-based Universal Application/Tests/Acceptance/___PROJECTNAME___-Frankified-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
 	};
 	6699FBB21318BB2800957038 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
